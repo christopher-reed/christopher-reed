@@ -3,14 +3,16 @@
 </h1>
 
 <div align="center">
+  
 &nbsp;&nbsp;&nbsp; :necktie: [LinkedIn](https://www.linkedin.com/in/christopher--reed/)
+
 </div>
 
 <img align="right" src="https://github.com/christopher-reed/christopher-reed/blob/main/Portrait%201.jpg">
 
 **I'm a data analyst with 3 years of experience in hypothesis driven research with strong skills in data-wrangling, statistical analysis, and data visualization.**
 
-I'm currently a Data Analyst at [wikiHow](https://www.wikihow.com/Main-Page) and am responsible for analytical projects such as A/B tests, analytics reporting in `R Shiny`, evaluating content performance. I've worked in a wide-range of data driven roles such as an undergraduate researcher in [applied statistics](https://karenamckinnon.github.io/group.html) at UCLA, a data analyst intern at General Mills, a research assistant at Stanford, and an intern at NASA Ames.  
+I'm currently a Data Analyst at [wikiHow](https://www.wikihow.com/Main-Page) and am responsible for analytical projects such as A/B tests, automated analytics reporting in `R Shiny`, and evaluating content performance. I've worked in a wide-range of data driven roles such as an undergraduate researcher in [applied statistics](https://karenamckinnon.github.io/group.html) at UCLA, a data analyst intern at General Mills, a research assistant at Stanford, and an intern at NASA Ames.  
 
 ### :computer: Professional Interests
 
